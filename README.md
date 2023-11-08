@@ -78,10 +78,9 @@ The site is then available at http://localhost:4000
 
 ## CNAME 🌐
 
-This repo is set to run off as a subdomain pointed at the Github repo, running on
-the Gh-Pages branch.
+This repo is set to run off a subdomain pointed at the Github repo, and is configured via the [CNAME](CNAME) file in the root folder of this repo.
 
-## :rocket: Auto deploy
+## Auto deploy  🚀
 
 An action is set to run and build every time a commit is pushed to the repository.
 This uses the simple jekyll action, available via the pages setup section.
