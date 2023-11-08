@@ -1,11 +1,11 @@
-# The Staffordshire Hoard - the original website
+# The Staffordshire Hoard - the original website resurrected
 
 ![A screenshot of the original website](assets/screenshots/3950750826_f6fd3f0252_b.jpg)
 
 This repository holds a Jekyll port of the original Textpattern site that I
 built in 2009 with my wife for the launch news of the discovery of the Staffordshire Hoard with zero budget and very short notice for the 24th September 2009. I have ported a version from the first month of creation, it later had a few more design elements like the Art Fund logo, news articles have been imported up to the last date possible to extract from the Wayback Machine.
 
-Nothing has been done to change it to meet latest WCAG guidance as this is meant to be a replica
+Nothing has been done to change it to meet latest WCAG guidance or to make this mobile device friendly 📲 as this is meant to be a replica
 of what I created back then (it's basically replicating the front end, devoid of a backend CMS and now has human readable markdown files). I have dropped two elements - search and Google Translate.
 
 We made this together in a day, I wrote the code and sorted out the content management system, my wife (Kate Kelland) labelled all the images on Flickr. The original image set had 500k views in the first 5 days, and the website had 175k visitors on the day that news broke of the discovery ([more on Academia](https://www.academia.edu/2259655/Meeting_public_interest_in_the_Staffordshire_Hoard)).
@@ -63,7 +63,7 @@ Before I left the Scheme, I had begun to catalogue all the records on the databa
 can be found under the [STAFFS institution](https://finds.org.uk/database/search/results/institution/STAFFS) and are very skeletal, formed from Kevin Leahy's spreadsheet
 and the images are the ones from the above sets with raffle ticket identifiers.  
 
-##  Running this locally
+##  Running this locally 🤯
 
 If you want to run a local copy, you need to have Jekyll installed (this was created on 4.2.2).
 Then do the following:
@@ -85,11 +85,11 @@ This repo is set to run off a subdomain pointed at the Github repo, and is confi
 An action is set to run and build every time a commit is pushed to the repository.
 This uses the simple jekyll action, available via the pages setup section.
 
-## Security and code upgrading
+## Security and code upgrading 🙈
 
 Dependabot has been enabled.
 
-## License
+## License 🪪
 
-The code for this project is [licensed as MIT](LICENSE); content is CC-BY-NC-SA as that replicates how it was
-originally released.
+The code for this project is [licensed as MIT](LICENSE); content is CC-BY-NC-SA as that replicates how this site was
+originally released. 
