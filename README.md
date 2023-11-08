@@ -76,7 +76,7 @@ bundle exec jekyll serve
 ```
 The site is then available at http://localhost:4000
 
-## CNAME :website:
+## CNAME 🌐
 
 This repo is set to run off as a subdomain pointed at the Github repo, running on
 the Gh-Pages branch.
