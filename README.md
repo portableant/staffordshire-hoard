@@ -84,7 +84,7 @@ the Gh-Pages branch.
 ## :rocket: Auto deploy
 
 An action is set to run and build every time a commit is pushed to the repository.
-This uses the simple [build jekyll for Github Pages action](https://github.com/marketplace/actions/build-jekyll-for-github-pages), available via the marketplace.
+This uses the simple jekyll action, available via the pages setup section.
 
 ## Security and code upgrading
 
