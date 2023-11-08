@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta content="initial-scale=1, shrink-to-fit=no, width=device-width" name="viewport">
+    <title>{{page.title}}</title>
+    {% seo %}
+    {% feed_meta %}
+    {% include /structure/css.html %}
+    {% include /structure/feeds.html %}
+</head>
+<body>
+  {% include /structure/accessibility.html %}
+  <div id="maincontainer">
+      {% include /structure/main-logo.html %}
+       <div id="contentwrapper">
+           <div id="contentcolumn">
+               <div class="innertube">
+                 <h1>{{page.title}}</h1>
+                 {% include structure/news-list.html %}
+                 {{ content }}
+
+               </div>
+           </div>
+       </div>
+       {% include /structure/nav.html %}
+       {% include structure/footer.html %}
+   </div>
+  {% include structure/javascript.html %}
+</body>
+</html>

@@ -1,0 +1,11 @@
+{% if page.url == "/news/" %}
+  <ul class="directory">
+  {% for post in site.posts %}
+    <li><a href="{{ post.permalink }}">{{ post.title }}</a>
+      {% if post.date %}
+       · <span class="published">{{ post.date | date_to_string }}</span>
+      {% endif %}
+    </li>
+   {% endfor %}
+   </ul>
+{% endif %}

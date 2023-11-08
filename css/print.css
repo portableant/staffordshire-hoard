@@ -1,0 +1,209 @@
+body{
+margin:0;
+padding:0;
+line-height: 1.5em;
+font-family: Garamond, sans-serif;
+color: #000000;
+background-color: #ffffff;
+}
+#fish {
+margin-top:5px;
+padding:10px;
+
+
+}
+.embed {
+float:right;
+padding:5px;
+}
+#accessibility {
+	display:none;
+}
+
+ .section_list {
+	display:none;
+}
+
+.section_list ul {
+	display:none;
+}
+
+.section_list li {
+	display:none;
+}
+
+/* links
+----------------------------------------------- */
+
+a {
+	text-decoration: none;
+	color: #ffffff;
+	border-bottom: 1px #000 solid;
+}
+
+a img {
+	border: none;
+}
+
+h1 a, h2 a, h3 a {
+	border: none;
+}
+
+h3 a {
+	font: 1.5em Georgia, Times, serif;
+}
+
+#site-name a {
+	border: none;
+}
+#sidebar-1 a {
+	color: #fff;
+	border: none;
+}
+
+#maincontainer{
+width: 840px; /*Width of main container*/
+margin: 0 auto; /*Center container on page*/
+}
+#topsection{
+
+}
+#content h1 {
+font: 2.5em Garamond, serif;
+text-align:center;
+}
+#topsection h1{
+display:none;
+}
+
+#contentwrapper{
+float: left;
+width: 100%;
+}
+#locallogos li {
+display:none;
+}
+#nationallogos li {
+display:none;
+}
+.thumbs_pages ul {
+list-style:none;
+}
+.thumbs_pages li {
+display:inline;
+padding: 10px;
+border:1px solid white;
+}
+
+.setpreview {
+	margin: 0 2em 1em 2em;
+}
+.setpreview .thumbnail {
+	float: left;
+	margin-right: 1em;
+	}
+.flickrset a {
+	border: solid #FFFFFF 2px;
+	width: 75px;
+	height: 75px;
+	background: #fff0d6;
+	float: left;
+	margin: 10px;
+	padding: 5px;
+}
+.flickrset a:hover {
+	background: #F67733;
+}
+.flickrset img {
+	border: 0;
+}
+.pages_nav {
+	clear: both;
+}
+.individual {
+	padding: 0 2em;
+}
+.individual .image {
+	margin: 0.5em auto;
+	text-align: justify;
+	}
+.individual .image img {
+border: solid #FFFFFF 6px;
+	}
+.individual .flickrsetnav {
+	text-align: justify;
+	}
+.individual .flickrsetnav a,
+		.individual .flickrsetnav a:link,
+		.individual .flickrsetnav a:visited {
+			text-decoration: none;
+		}
+.individual .setname {
+		display: inline;
+	}
+#contentcolumn{
+
+}
+
+#leftcolumn{
+display:none;
+}
+
+#footer{
+
+}
+
+#footer a{
+color: #FFFF80;
+}
+
+.innertube{
+margin: 10px; /*Margins for inner DIV inside each column (to provide padding)*/
+margin-top: 0;
+}
+
+.pQuote {
+	float:right;
+
+        width: 200px;
+        color: red;
+        font-size:1.4em;
+        padding-left:10px;
+}
+#fish blockquote {
+font-size:2.4em;
+line-height:1em;
+}
+blockquote {
+margin-left:-10px;
+	padding-left:30px;
+	color:#555;
+	font:100% Garamond;
+	background-repeat: no-repeat;
+	background-position: top left;
+	background-image: url(https://web.archive.org/web/20110101125603im_/http://www.staffordshirehoard.org.uk/images/13.png);
+
+	}
+
+
+/*
+     FILE ARCHIVED ON 12:56:03 Jan 01, 2011 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 17:52:08 Nov 03, 2022.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 158.519
+  exclusion.robots: 0.217
+  exclusion.robots.policy: 0.208
+  cdx.remote: 0.07
+  esindex: 0.009
+  LoadShardBlock: 122.45 (3)
+  PetaboxLoader3.datanode: 59.946 (4)
+  CDXLines.iter: 20.746 (3)
+  PetaboxLoader3.resolve: 91.833 (2)
+  load_resource: 99.413
+*/
