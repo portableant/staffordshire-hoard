@@ -11,13 +11,13 @@ I have ported a version from the first month of creation, it later had a few mor
 ## What's missing?
 
 Nothing has been done to change it to meet latest WCAG guidance or to make this mobile device friendly 📲 as this is meant to be a replica
-of what I created back then (it's basically replicating the front end, devoid of a backend CMS and now has human readable markdown files). 
+of what I created back then (it's basically replicating the front end, devoid of a backend CMS and now has human readable markdown files).
 
-I have dropped two elements - search and Google Translate. 
+I have dropped two elements - search and Google Translate.
 
 Flickr image imports via the old api.
 
-## Archived snapshots 
+## Archived snapshots
 You can find the archived versions on the [Wayback machine](https://web.archive.org/web/20230706125313/http://www.staffordshirehoard.org.uk/) and see when it was changed to a wordpress site, run by Staffordshire County Council. The hoard was named best archaeological discovery at the British Archaeology Awards in July 2019.
 
 ## Structure 🧱
@@ -97,7 +97,7 @@ This uses the simple jekyll action, available via the pages setup section.
 
 Dependabot has been enabled.
 
-## License 🪪
+## License ©️
 
 The code for this project is [licensed as MIT](LICENSE); content is CC-BY-NC-SA as that replicates how this site was
-originally released. 
+originally released.
