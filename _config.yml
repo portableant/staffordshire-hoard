@@ -27,7 +27,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://staffordshire-hoard.museologi.st" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: dejpett
 github_username:  portableant
-
+logo: /images/12.png
+image: /images/3920441286_f5ff60cfae.jpg
 # Build settings
 plugins:
   - jekyll-feed

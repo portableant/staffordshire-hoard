@@ -1,11 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <!-- Required meta tags -->
-    <meta charset="utf-8">
-    <meta content="initial-scale=1, shrink-to-fit=no, width=device-width" name="viewport">
-    <title>{{page.title}}</title>
+    {% include /structure/page-title.html %}
     {% seo %}
+    {% favicon %}
     {% feed_meta %}
     {% include /structure/css.html %}
     {% include /structure/feeds.html %}
@@ -17,10 +15,11 @@
        <div id="contentwrapper">
            <div id="contentcolumn">
                <div class="innertube">
+                 {% if page.url != '/'%}
                  <h1>{{page.title}}</h1>
+                 {% endif %}
                  {% include structure/news-list.html %}
                  {{ content }}
-
                </div>
            </div>
        </div>

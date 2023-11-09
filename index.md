@@ -1,6 +1,7 @@
 ---
 layout: default
-title: ''
+title: 'The Staffordshire Hoard'
+image: /images/3920441286_f5ff60cfae.jpg
 ---
 <div id="fish">
 <a href="{{site.baseurl}}/images/3931735918_f0d4e8702f_o.jpg" title="Group shot of some of the star objects by portableantiquities, on Flickr" rel="lightbox"><img src="https://live.staticflickr.com/2506/3931735918_c42c8c7d9f_c.jpg" width="500" height="306" alt="Group shot of plate gold and other artefacts"></a>
