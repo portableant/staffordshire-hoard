@@ -2,14 +2,22 @@
 
 ![A screenshot of the original website](assets/screenshots/3950750826_f6fd3f0252_b.jpg)
 
-This repository holds a Jekyll port of the original Textpattern site that I
-built in 2009 with my wife for the launch news of the discovery of the Staffordshire Hoard with zero budget and very short notice for the 24th September 2009. I have ported a version from the first month of creation, it later had a few more design elements like the Art Fund logo, news articles have been imported up to the last date possible to extract from the Wayback Machine.
-
-Nothing has been done to change it to meet latest WCAG guidance or to make this mobile device friendly 📲 as this is meant to be a replica
-of what I created back then (it's basically replicating the front end, devoid of a backend CMS and now has human readable markdown files). I have dropped two elements - search and Google Translate.
+This repository holds a Jekyll port of the original Textpattern site that I built in 2009 with my wife. This was created for the launch news of the discovery of the Staffordshire Hoard, with zero budget and at very short notice for the 24th September 2009.
 
 We made this together in a day, I wrote the code and sorted out the content management system, my wife (Kate Kelland) labelled all the images on Flickr. The original image set had 500k views in the first 5 days, and the website had 175k visitors on the day that news broke of the discovery ([more on Academia](https://www.academia.edu/2259655/Meeting_public_interest_in_the_Staffordshire_Hoard)).
 
+I have ported a version from the first month of creation, it later had a few more design elements like the Art Fund logo. The only more up to date section is for news articles, which have been imported up to the last date possible to extract from the Wayback Machine.
+
+## What's missing?
+
+Nothing has been done to change it to meet latest WCAG guidance or to make this mobile device friendly 📲 as this is meant to be a replica
+of what I created back then (it's basically replicating the front end, devoid of a backend CMS and now has human readable markdown files). 
+
+I have dropped two elements - search and Google Translate. 
+
+Flickr image imports via the old api.
+
+## Archived snapshots 
 You can find the archived versions on the [Wayback machine](https://web.archive.org/web/20230706125313/http://www.staffordshirehoard.org.uk/) and see when it was changed to a wordpress site, run by Staffordshire County Council. The hoard was named best archaeological discovery at the British Archaeology Awards in July 2019.
 
 ## Structure 🧱
