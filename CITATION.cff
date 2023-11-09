@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+title: The Staffordshire Hoard - the original website resurrected
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Daniel
+    family-names: Pett
+    email: dejp3@cam.ac.uk
+    affiliation: 'St Edmund''s College, University of Cambridge'
+    orcid: 'https://orcid.org/0000-0002-0246-2335'
+  - given-names: Katharine
+    family-names: Kelland
+repository-code: >-
+  https://github.com/portableant/staffordshire-hoard/
+url: 'https://staffordshire-hoard.museologi.st'
+abstract: >-
+  This repository holds the code and assets for the original
+  Staffordshire Hoard Website.
+keywords:
+  - jekyll
+  - museum
+  - open-source
+  - archaeology
+license: MIT
