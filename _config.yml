@@ -32,7 +32,8 @@ image: /images/3920441286_f5ff60cfae.jpg
 # Build settings
 plugins:
   - jekyll-feed
-
+favicon:
+  source: favicon.png
 collections:
    posts:
       output: true
